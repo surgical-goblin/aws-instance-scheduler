@@ -589,7 +589,7 @@
                 "Yes",
                 "No"
             ],
-            "Default": "Yes",
+            "Default": "No",
             "Description": "Send Anonymous Metrics Data."
         }
     },
