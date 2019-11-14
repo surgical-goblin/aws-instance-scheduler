@@ -18,7 +18,7 @@
                 "RDS",
                 "Both"
             ],
-            "Default": "EC2",
+            "Default": "Both",
             "Description": "Scheduled Services."
         },
         "ScheduleRdsClusters": {
